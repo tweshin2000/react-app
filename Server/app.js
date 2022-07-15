@@ -17,7 +17,7 @@ app.use(express.json());
 var config = {
         user: 'tweshin24',
         password: 'tweshin*24',
-        server: 'server-tb.database.windows.net', 
+        server: 'servetb.database.windows.net', 
         database: 'demodb' 
     };
 
